@@ -18,7 +18,7 @@ repositories {
 }
 
 archivesBaseName = "gradle-android-apt"
-version = "1.0-SNAPSHOT"
+version = "1.0.0"
 group = "com.stanfy.android"
 
 dependencies {
